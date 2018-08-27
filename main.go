@@ -8,5 +8,6 @@ func main() {
 	fmt.Println(functionsPractice())
 	// variables()
 	testConditionals()
-	loopBasics()
+	loopOverRange()
+	sliceBasics()
 }
